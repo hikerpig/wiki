@@ -1,7 +1,8 @@
-title: Foam Jekyll Template
+title: Hikerpig's Wiki
 theme: jekyll-theme-primer
 
-baseurl: /foam-jekyll-template
+baseurl: /wiki
+host: blog.hikerpig.cn
 
 highlighter: rouge
 gist:

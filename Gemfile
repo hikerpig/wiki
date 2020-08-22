@@ -1,3 +1,4 @@
+source "https://gems.ruby-china.com"
 gem "jekyll", "3.9.0"
 gem "jekyll-theme-primer"
 gem "jekyll-optional-front-matter"

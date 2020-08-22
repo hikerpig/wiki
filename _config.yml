@@ -2,7 +2,10 @@ title: Hikerpig's Wiki
 theme: jekyll-theme-primer
 
 baseurl: /wiki
-host: blog.hikerpig.cn
+
+exclude:
+  - bin
+  - _scripts
 
 highlighter: rouge
 gist:

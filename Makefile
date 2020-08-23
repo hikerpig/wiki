@@ -1,0 +1,2 @@
+update-index:
+	node _scripts/gen-folder-summary.js

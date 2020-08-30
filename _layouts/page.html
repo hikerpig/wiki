@@ -3,3 +3,41 @@ layout: foam
 ---
 
 {{ content }}
+
+<div class="js-toc tocbot"></div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
+
+<style type="text/css" media="screen">
+.tocbot {
+  position: fixed;
+  right: 1em;
+  top: 50px;
+}
+.tocbot ol {
+  list-style: none;
+  padding-left: 1em;
+}
+.is-active-link::before {
+  background-color: #ff6156;
+}
+@media(max-width: 1400px) {
+  .tocbot {
+    display: none;
+  }
+}
+</style>
+
+<script type="text/javascript" charset="utf-8">
+  document.addEventListener('DOMContentLoaded', function() {
+    tocbot.init({
+      // Where to render the table of contents.
+      tocSelector: '.tocbot',
+      // Where to grab the headings to build the table of contents.
+      contentSelector: '.markdown-body',
+      // Which headings to grab inside of the contentSelector element.
+      headingSelector: 'h1, h2, h3, h4, h5',
+      collapseDepth: 6,
+    });
+  })
+</script>

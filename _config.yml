@@ -16,6 +16,7 @@ kramdown:
 
 readme_index:
   enabled:          true
+  remove_originals: true
 
 plugins:
 - jekyll-optional-front-matter

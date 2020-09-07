@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+:scope {
+  --site-theme-color: #ff6156;
+}
+
 a {
   // color: #6043d2;
   color: #ff6156;
@@ -49,7 +53,8 @@ h3,
 h4,
 h5,
 blockquote {
-  font-family: "Avenir", "Menlo", "Helvetica Neue", Arial, ",WenQuanYi Zen Hei", sans-serif;
+  font-family: "Avenir", "Menlo", "Helvetica Neue", Arial, ",WenQuanYi Zen Hei",
+    sans-serif;
 }
 
 .wikilink:before {
@@ -72,3 +77,4 @@ blockquote {
   color: black;
   border-radius: 4px;
 }
+

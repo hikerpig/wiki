@@ -57,7 +57,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
 window.addEventListener('DOMContentLoaded', function() {
   if (typeof anchors !== 'undefined') {
     anchors.options.visible = 'always'
-    anchors.add('a[href^=http]:not(.wikilink):not(.marka-link)')
+    const baseUrl = '{{ site.baseurl }}'
+    const baseHref = `${location.protocol}//${location.host}${baseUrl}`
+    anchors.add(`a[href^=http]:not(.wikilink):not(.marka-link):not([href="${baseHref}"])`)
   }
 })
 </script>

@@ -1,3 +1,5 @@
 .sass-cache/
 _site/
 _remote_site/
+
+.env

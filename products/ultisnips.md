@@ -14,7 +14,7 @@ UltiSnips
 
 作者近几年在忙别的事情，基本没时间更新，整个项目处于一个停滞的成熟期，在官方 github 仓库里有一些 - 像我一样打一枪就跑的 - 志愿者在回答问题和贡献小 PR。
 
-当时为了实现 [Choices 功能](https://github.com/SirVer/ultisnips/issues/1166)，简单看了一遍源码并提交了 PR。插件的主体逻辑是在 python 里实现的，通过 vim 的 [python interface](https://vim-jp.org/vimdoc-en/if_pyth.html) 与 vim 结合工作。整个工程结构不是很复杂，但也许是默认使用 vim 且会开发插件的项目贡献者不缺水平和折腾能力， 开发体验不是很好，包括但不限于：
+当时为了实现 [Choices 功能](https://github.com/SirVer/ultisnips/issues/1166)，简单看了一遍源码并提交了 PR。插件的主体逻辑是在 python 里实现的，通过 vim 的 [python interface](https://vim-jp.org/vimdoc-en/if_pyth.html) 与 vim 结合工作。整个工程结构不是很复杂，但也许是默认使用 vim 且会开发插件的项目贡献者不缺水平和折腾能力，开发体验不是很好，包括但不限于：
 
 1. 没有为贡献者单独提供傻瓜式完备的代码说明 （但用户帮助文档写得是非常的好）。
 2. vim 的插件开发并没有公认的范式和统一的调试方法和界面支持，与给 VSCode 写插件体验对比尤其明显。UltiSnips 项目中，无法使用断点等方法，调试靠写文件 log 。

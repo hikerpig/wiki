@@ -12,6 +12,12 @@ Foam
 最大的基于 markdown 文件的好处是能从许多已存 markdown 项目快速转换过来，个人可以根据自身情况编写合适的分析、迁移、发布脚本，对于程序员和极客来说有一种摩拳擦掌大显身手的快乐。
 
 
+## Update 2020/10/16
+
+一个基于 [gatsby-theme-garden](https://www.gatsbyjs.com/plugins/gatsby-theme-garden/) 的发布方案: [mathieudutour/foam-gatsby-template: Foam workpace template](https://github.com/mathieudutour/foam-gatsby-template)。
+
+[作者的 Demo](https://mathieudutour.github.io/gatsby-digital-garden/)，兼容 roam 语法，具有 graph-view/reference-view/鼠标悬停预览 等功能，界面简洁美观。
+
 ## Update 2020/9/14
 一个可以借鉴的发布方案:  https://wiki.spencerwoo.com/ 使用 vuepress 以及自定义的 foam 插件生成的网站，观感以及功能都很棒。底部插入了 backlink section 。
 

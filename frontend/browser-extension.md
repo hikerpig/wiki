@@ -1,7 +1,8 @@
-Browser Extension 开发浏览器插件
+Browser Extension
 ===
 #extension
 
+开发浏览器插件
 
 ### 基础学习
 

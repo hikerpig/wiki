@@ -42,7 +42,7 @@ ${
     return `- [[${name}]]`
   }).join('\n')
 }
-<!-- ${GEN_END_MARK} -->
+<!--${GEN_END_MARK}-->
     `
 
     let content = generatedContent;

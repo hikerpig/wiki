@@ -7,9 +7,10 @@ The Pudding
 
 他们的[团队介绍](https://pudding.cool/about/)提到了项目运作方式：项目制，有偿接受外部贡献者的点子，也向其提供帮助（编辑、视觉设计、前端代码等），每个项目从立项到上线从几周到几个月不等。
 
-同时也是同一拨人的另一个商业化产品 The Polygraph 的效果展示板，接受定制化项目合作。因此 The Pudding 本身完全免费，也没有扰人的广告。
+The Pudding 本身完全免费，也没有扰人的广告，那团队是怎么活下来的呢？同一拨人有另一个商业化产品 The Polygraph ，接受定制化项目合作，The Pudding 便是一个团队能力展示板和探索空间。
 
 ![](https://i.loli.net/2020/10/09/a2IWNCfRqUTED57.png)
 
 主编 Russel Goldenberg [russellgoldenberg/scrollama](https://github.com/russellgoldenberg/scrollama) 甚至还开发了一个 JS 库来实现 scroll-based storytelling，有 3K+ star。
 
+其中一名编辑分享了[工作流程和教学]([Making Internet Things, Part 1: Working with Data](https://pudding.cool/process/how-to-make-dope-shit-part-1/))，对有志于做新媒体媒介探索的人是一个不错的系列。

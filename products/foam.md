@@ -1,6 +1,10 @@
 Foam
 ===
 
+## Meta
+
+Related: [[obsidian]]
+
 [Foam](https://foambubble.github.io/foam/) 从名字上就有向 Roam Research 致敬的意思。
 
 几乎所有设计都紧跟约定俗成和最佳实践，包括

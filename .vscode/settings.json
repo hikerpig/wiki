@@ -11,7 +11,8 @@
   "git.postCommitCommand": "sync",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "files.exclude": {
-    "**/_site": true
+    "**/_site": true,
+    "**/_remote_site": true
   },
   "files.watchExclude": {
     "**/_site": true

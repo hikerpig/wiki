@@ -1,7 +1,7 @@
 title: Hikerpig's Wiki
 theme: jekyll-theme-primer
 
-baseurl: /wiki
+baseurl: /
 
 exclude:
   - bin

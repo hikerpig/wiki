@@ -104,7 +104,8 @@ algoliaSearch.addWidget(
 );
 
 const hitTemplate = function(hit) {
-  let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+  const safeBaseUrl = '{{ site.baseurl }}'.replace(/\/$/, '')
+  let url = `${safeBaseUrl}${hit.url}#${hit.anchor}`;
 
   const title = hit._highlightResult.title ? hit._highlightResult.title.value: '';
 

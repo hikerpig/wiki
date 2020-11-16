@@ -113,7 +113,6 @@ DEPENDENCIES
   jekyll (= 3.9.0)
   jekyll-algolia (~> 1.0)
   jekyll-default-layout
-  jekyll-github-metadata
   jekyll-optional-front-matter
   jekyll-readme-index
   jekyll-relative-links

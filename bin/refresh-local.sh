@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -rv ~/foam-notes/* . && jekyll build --baseurl ''
+rsync -rv ~/foam-notes/* . && bundle exec jekyll build --baseurl ''

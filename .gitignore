@@ -2,4 +2,6 @@
 _site/
 _remote_site/
 
+_algolia_api_key
+
 .env

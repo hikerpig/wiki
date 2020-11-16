@@ -43,7 +43,7 @@ ${
   }).join('\n')
 }
 <!--${GEN_END_MARK}-->
-    `
+`
 
     let content = generatedContent;
     const hasFormerFile = fs.existsSync(outputFileName);
@@ -52,7 +52,7 @@ ${
       for (let lineNumber = 0; lineNumber < oldContentLines.length; lineNumber++) {
         const lineContent = oldContentLines[lineNumber];
         if (lineContent.indexOf(GEN_END_MARK) > -1) {
-          content = [generatedContent, oldContentLines.slice(lineNumber + 1).join('\n')].join('\n')
+          content = generatedContent + oldContentLines.slice(lineNumber + 1).join('\n')
           break
         }
       }

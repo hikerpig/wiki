@@ -13,10 +13,16 @@ layout: foam
   position: fixed;
   right: 1em;
   top: 50px;
+  max-width: 25em;
 }
 .tocbot ol {
   list-style: none;
   padding-left: 1em;
+}
+.tocbot li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .is-active-link::before {
   background-color: #ff6156;
@@ -30,6 +36,10 @@ layout: foam
 
 <script type="text/javascript" charset="utf-8">
   document.addEventListener('DOMContentLoaded', function() {
+    const h1 = document.body.querySelector('h1:not([id])')
+    if (h1) {
+      h1.classList.add('js-toc-ignore')
+    }
     tocbot.init({
       // Where to render the table of contents.
       tocSelector: '.tocbot',

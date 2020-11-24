@@ -61,6 +61,8 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-theme-primer (0.5.4)
       jekyll (> 3.5, < 5.0)
       jekyll-github-metadata (~> 2.9)
@@ -116,6 +118,7 @@ DEPENDENCIES
   jekyll-optional-front-matter
   jekyll-readme-index
   jekyll-relative-links
+  jekyll-sitemap
   jekyll-theme-primer
   jekyll-titles-from-headings
   kramdown

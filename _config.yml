@@ -1,5 +1,6 @@
 title: Hikerpig's Wiki
 theme: jekyll-theme-primer
+url: "https://wiki.hikerpig.cn"
 
 baseurl: /
 
@@ -29,3 +30,4 @@ plugins:
 - jekyll-default-layout
 - jekyll-titles-from-headings
 - jekyll-relative-links
+- jekyll-sitemap

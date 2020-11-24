@@ -8,6 +8,7 @@ gem "jekyll-titles-from-headings"
 gem "jekyll-relative-links"
 gem "kramdown-parser-gfm"
 gem "kramdown"
+gem 'jekyll-sitemap'
 
 group :jekyll_plugins do
   gem 'jekyll-algolia', '~> 1.0'

@@ -24,6 +24,12 @@ algolia:
   index_name: "hikerpig's wiki"
   api_key: "a6010aa6141bab85d463363b8865eb27"
 
+twitter:
+  username: Hikerpig
+  card: summary
+
+author: Hikerpig
+
 plugins:
 - jekyll-optional-front-matter
 - jekyll-readme-index

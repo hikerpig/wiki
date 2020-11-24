@@ -2,6 +2,14 @@ Mermaid.js
 ===
 #graph #FOSS
 
+## 2020/11/23
+
+Mermaid 从一开始的设计就假定代码是运行在浏览器里，这也是它轻量快速以及最早成功的原因，但随着使用者和场景越来越多，这也成了它的一个硬伤。
+
+例如在服务端构建页面时，node.js 端的 mermaid 需要安装 puppeteer 作为依赖，依靠 headless 浏览器来做绘制。
+
+根据 issue [Support API in nodejs · Issue #1183 · mermaid-js/mermaid](https://github.com/mermaid-js/mermaid/issues/1183)，mermaid 依赖浏览器渲染引擎去做排版，一些对于图布局计算至关重要的元素尺寸计算是依赖渲染引擎（浏览器）来做的，例如使用 `textLabel.getBBox()` 去获取 svg text 标签的大小后再做图布局计算。
+
 ## 2020/9/15
 
 我发布了一篇博客文章，把之前的阶段观察整理了一下：[Mermaid.js - 一个刚刚好的开源产品](http://hikerpig.github.io/2020/08/28/2020-08-28-Mermaid.js-as-a-nice-product/)

@@ -18,3 +18,8 @@ Browser Extension
 ### 安全问题
 
 - [PostMessage Security in Chrome Extensions](https://owasp.org/www-chapter-london/assets/slides/OWASPLondon_PostMessage_Security_in_Chrome_Extensions.pdf)
+
+
+### 一些新闻
+
+- [Abusive add-ons aren’t just a Chrome and Firefox problem. Now it’s Edge’s turn | Ars Technica](https://arstechnica.com/gadgets/2020/11/fraudulent-add-ons-infiltrate-the-official-microsoft-edge-store/#p3)

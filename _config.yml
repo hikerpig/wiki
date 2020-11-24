@@ -37,3 +37,4 @@ plugins:
 - jekyll-titles-from-headings
 - jekyll-relative-links
 - jekyll-sitemap
+- jekyll-last-modified-at

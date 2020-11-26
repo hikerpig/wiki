@@ -22,4 +22,4 @@ Browser Extension
 
 ### 一些新闻
 
-- [Abusive add-ons aren’t just a Chrome and Firefox problem. Now it’s Edge’s turn | Ars Technica](https://arstechnica.com/gadgets/2020/11/fraudulent-add-ons-infiltrate-the-official-microsoft-edge-store/#p3)
+- 2020/11 [Abusive add-ons aren’t just a Chrome and Firefox problem. Now it’s Edge’s turn | Ars Technica](https://arstechnica.com/gadgets/2020/11/fraudulent-add-ons-infiltrate-the-official-microsoft-edge-store/#p3)

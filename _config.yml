@@ -7,6 +7,8 @@ baseurl: /
 exclude:
   - bin
   - _scripts
+  - _site
+  - _remote_site
 
 highlighter: rouge
 gist:

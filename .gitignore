@@ -5,3 +5,7 @@ _remote_site/
 _algolia_api_key
 
 .env
+
+node_modules/
+_generator/public/
+.cache

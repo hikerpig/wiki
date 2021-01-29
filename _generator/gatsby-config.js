@@ -31,5 +31,11 @@ module.exports = {
         container: '.topic-layout__content',
       }
     },
+    {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: 'wiki.hikerpig.cn',
+      },
+    },
   ],
 };

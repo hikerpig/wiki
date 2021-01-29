@@ -17,6 +17,7 @@
   "dependencies": {
     "gatsby": "^2.31.1",
     "gatsby-plugin-marka": "1.1.1",
+    "gatsby-plugin-plausible": "^0.0.7",
     "gatsby-theme-kb": "latest"
   }
 }

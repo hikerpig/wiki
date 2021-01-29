@@ -35,6 +35,7 @@ module.exports = {
       resolve: `gatsby-plugin-plausible`,
       options: {
         domain: 'wiki.hikerpig.cn',
+        customDomain: 'plausible.hikerpig.cn',
       },
     },
   ],

@@ -2,6 +2,15 @@
 # yarn lockfile v1
 
 
+"@aaromp/gatsby-plugin-plausible@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/@aaromp/gatsby-plugin-plausible/-/gatsby-plugin-plausible-1.0.0.tgz#5abde486b84360f98019d5bfadaf1d6a64524a18"
+  integrity sha512-KdAFEBaZKyu3/DOmqwkhtjbEWka5qvJ3hC1sc7xjCQSv0C29NW2AhsOD6e33KaGRwkifEcpCR/noVx8k5o86uw==
+  dependencies:
+    "@babel/runtime" "^7.9.2"
+    minimatch "3.0.4"
+    react "^16.13.1"
+
 "@ardatan/aggregate-error@0.0.6":
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/@ardatan/aggregate-error/-/aggregate-error-0.0.6.tgz#fe6924771ea40fc98dc7a7045c2e872dc8527609"
@@ -6328,15 +6337,6 @@ gatsby-plugin-page-creator@^2.9.0:
     gatsby-telemetry "^1.9.0"
     globby "^11.0.1"
     lodash "^4.17.20"
-
-gatsby-plugin-plausible@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.npmjs.org/gatsby-plugin-plausible/-/gatsby-plugin-plausible-0.0.7.tgz#6f8c922bbc672a73bd8e9a39add61fb62ec96566"
-  integrity sha512-pWCXsrWal8lWMmZ1wJ2dolbwZZR1CZU1LVR/K1rYC8NeA+uqTLY8h3uH3hFgP5n8jmRRenOSJ9SjWM9OIdCjOA==
-  dependencies:
-    "@babel/runtime" "^7.9.2"
-    minimatch "3.0.4"
-    react "^16.13.1"
 
 gatsby-plugin-postcss@^3.5.0:
   version "3.6.0"

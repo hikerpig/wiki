@@ -6224,6 +6224,11 @@ gatsby-plugin-mdx@^1.6.0:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
+gatsby-plugin-no-sourcemaps@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.npmjs.org/gatsby-plugin-no-sourcemaps/-/gatsby-plugin-no-sourcemaps-2.9.0.tgz#ecdb987fa68ea60c01b0f9e79b0068949008fc41"
+  integrity sha512-VaTXi6oArcIQemUkh92Q9usT0yodSeDp56qIRTI8a3DcLKLC6FX6WfuVxJ0AwHwNa2FiLBkMUpCfJswCQ/Ih1A==
+
 gatsby-plugin-page-creator@^2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-2.9.0.tgz#6c3179ccd18b93593dc3b1c0b6210bf9ddc929e8"
@@ -6412,10 +6417,10 @@ gatsby-telemetry@^1.9.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-kb@^0.4.2:
-  version "0.4.2"
-  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.4.2.tgz#76ac86ebc6578509c1e2d933f27b9d829e57a0ec"
-  integrity sha512-AW03x6y8y9fUAt9Cyx+EMth9JEXc7L74L9dSvhQ2WMoTlLCmNcbVgwoPqUdbVaOew9B9Sgf5gSPXVxxMuD85OA==
+gatsby-theme-kb@^0.4.3:
+  version "0.4.3"
+  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.4.3.tgz#2e69f2d3941a7055c7341023ea2bd080ad4bf500"
+  integrity sha512-BmrgDfakABHnFDiyep73RmkZAGIyCaaPbMSPimfkxI0veTTojB9Qo09dgAUgPjvJYGVDJYYbgwz3P4Lv7qjZBQ==
   dependencies:
     "@gatsby-project-kb/transformer-wiki-references" "^0.2.1"
     "@mdx-js/mdx" "^1.6.22"

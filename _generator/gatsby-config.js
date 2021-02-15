@@ -37,5 +37,6 @@ module.exports = {
         customDomain: 'plausible.hikerpig.cn',
       },
     },
+    'gatsby-plugin-no-sourcemaps'
   ],
 };

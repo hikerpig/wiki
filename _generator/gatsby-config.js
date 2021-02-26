@@ -22,6 +22,15 @@ module.exports = {
           "**/_remote_site/**",
           "**/public/**",
         ],
+        getPluginMdx(defaultPluginMdx) {
+          defaultPluginMdx.options.gatsbyRemarkPlugins.push({
+            resolve: 'gatsby-remark-prismjs',
+            options: {
+              noInlineHighlight: true,
+            },
+          })
+          return defaultPluginMdx
+        },
       },
     },
     {

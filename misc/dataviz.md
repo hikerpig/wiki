@@ -27,3 +27,10 @@ SATYANARAYAN A, RUSSELL R, HOFFSWELL J, 等. Reactive Vega: A Streaming Dataflow
 
 - dataflow graph
 - 操作符(Operator) 也是有声明式的表示的
+
+
+## 一些观点
+
+### Exploratory or Explanatory
+
+mike 在[回顾 d3.js 的 10 年历程时](https://observablehq.com/@mbostock/10-years-of-open-source-visualization#l4)提到的，根据可视化的目标（探索性还是解释性）占比不同，一些设计决策会很不一样。

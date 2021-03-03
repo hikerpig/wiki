@@ -16,3 +16,7 @@ pre[class*="language-"] {
 code {
   font-size: 0.9em;
 }
+
+.light-mode {
+  --kb-text-color: hsl(2deg 20% 15%);
+}

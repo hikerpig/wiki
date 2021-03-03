@@ -15,6 +15,9 @@ Related: [[obsidian]]
 等等，好处是不需要重新实现一整套解决方案，而是提出一套推荐的实践流程，用最少的人力补齐流程中缺失的部分。
 最大的基于 markdown 文件的好处是能从许多已存 markdown 项目快速转换过来，个人可以根据自身情况编写合适的分析、迁移、发布脚本，对于程序员和极客来说有一种摩拳擦掌大显身手的快乐。
 
+## Update 2021/3/1
+
+自己写的 [gatsby-theme-kb](https://github.com/hikerpig/gatsby-project-kb)感觉完全可以替代 gatsby-theme-garden 了。还有一个可用于 Foam 的模板项目 [foam-template-gatsby-kb](https://github.com/hikerpig/foam-template-gatsby-kb)。
 
 ## Update 2020/10/16
 

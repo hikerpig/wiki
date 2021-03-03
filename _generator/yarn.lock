@@ -1077,9 +1077,9 @@
     tslib "~2.1.0"
 
 "@graphql-tools/import@^6.2.6":
-  version "6.2.6"
-  resolved "https://registry.npmjs.org/@graphql-tools/import/-/import-6.2.6.tgz#c5f899f0b87e9fe0523b889be8a59cb30aa164ad"
-  integrity sha512-/0H/bDjNK1MnKonk8fMbB7wIYU6QLCwbQOHtSHbFJ4j2qki5CqfAxpF+fGX6KovDtkdigcgRMvSKKi14oiuHPA==
+  version "6.3.0"
+  resolved "https://registry.npmjs.org/@graphql-tools/import/-/import-6.3.0.tgz#171472b425ea7cba4a612ad524b96bd206ae71b6"
+  integrity sha512-zmaVhJ3UPjzJSb005Pjn2iWvH+9AYRXI4IUiTi14uPupiXppJP3s7S25Si3+DbHpFwurDF2nWRxBLiFPWudCqw==
   dependencies:
     resolve-from "5.0.0"
     tslib "~2.1.0"
@@ -3873,22 +3873,22 @@ copyfiles@^2.3.0:
     yargs "^16.1.0"
 
 core-js-compat@^3.6.5, core-js-compat@^3.8.1, core-js-compat@^3.9.0:
-  version "3.9.0"
-  resolved "https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.9.0.tgz#29da39385f16b71e1915565aa0385c4e0963ad56"
-  integrity sha512-YK6fwFjCOKWwGnjFUR3c544YsnA/7DoLL0ysncuOJ4pwbriAtOpvM2bygdlcXbvQCQZ7bBU9CL4t7tGl7ETRpQ==
+  version "3.9.1"
+  resolved "https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.9.1.tgz#4e572acfe90aff69d76d8c37759d21a5c59bb455"
+  integrity sha512-jXAirMQxrkbiiLsCx9bQPJFA6llDadKMpYrBJQJ3/c4/vsPP/fAf29h24tviRlvwUL6AmY5CHLu2GvjuYviQqA==
   dependencies:
     browserslist "^4.16.3"
     semver "7.0.0"
 
 core-js-pure@^3.0.0:
-  version "3.9.0"
-  resolved "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.9.0.tgz#326cc74e1fef8b7443a6a793ddb0adfcd81f9efb"
-  integrity sha512-3pEcmMZC9Cq0D4ZBh3pe2HLtqxpGNJBLXF/kZ2YzK17RbKp94w0HFbdbSx8H8kAlZG5k76hvLrkPm57Uyef+kg==
+  version "3.9.1"
+  resolved "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.9.1.tgz#677b322267172bd490e4464696f790cbc355bec5"
+  integrity sha512-laz3Zx0avrw9a4QEIdmIblnVuJz8W51leY9iLThatCsFawWxC3sE4guASC78JbCin+DkwMpCdp1AVAuzL/GN7A==
 
 core-js@^3.6.5:
-  version "3.9.0"
-  resolved "https://registry.npmjs.org/core-js/-/core-js-3.9.0.tgz#790b1bb11553a2272b36e2625c7179db345492f8"
-  integrity sha512-PyFBJaLq93FlyYdsndE5VaueA9K5cNB7CGzeCj191YYLhkQM0gdZR2SKihM70oF0wdqKSKClv/tEBOpoRmdOVQ==
+  version "3.9.1"
+  resolved "https://registry.npmjs.org/core-js/-/core-js-3.9.1.tgz#cec8de593db8eb2a85ffb0dbdeb312cb6e5460ae"
+  integrity sha512-gSjRvzkxQc1zjM/5paAmL4idJBFzuJoo+jDjF1tStYFMV2ERfD02HhahhCGXUyHxQRG4yFKVSdO6g62eoRMcDg==
 
 core-util-is@~1.0.0:
   version "1.0.2"
@@ -4531,9 +4531,9 @@ dataloader@^1.4.0:
   integrity sha512-68s5jYdlvasItOJnCuI2Q9s4q98g0pCyL3HrcKJu8KNugUl8ahgmZYg38ysLTgQjjXX3H8CJLkAvWrclWfcalw==
 
 date-fns@^2.14.0:
-  version "2.17.0"
-  resolved "https://registry.npmjs.org/date-fns/-/date-fns-2.17.0.tgz#afa55daea539239db0a64e236ce716ef3d681ba1"
-  integrity sha512-ZEhqxUtEZeGgg9eHNSOAJ8O9xqSgiJdrL0lzSSfMF54x6KXWJiOH/xntSJ9YomJPrYH/p08t6gWjGWq1SDJlSA==
+  version "2.18.0"
+  resolved "https://registry.npmjs.org/date-fns/-/date-fns-2.18.0.tgz#08e50aee300ad0d2c5e054e3f0d10d8f9cdfe09e"
+  integrity sha512-NYyAg4wRmGVU4miKq5ivRACOODdZRY3q5WLmOJSq8djyzftYphU7dTHLcEtLqEvfqMKQ0jVv91P4BAwIjsXIcw==
 
 debounce@^1.2.0:
   version "1.2.0"
@@ -6532,10 +6532,10 @@ gatsby-telemetry@^1.10.1:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-kb@^0.4.3:
-  version "0.4.3"
-  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.4.3.tgz#2e69f2d3941a7055c7341023ea2bd080ad4bf500"
-  integrity sha512-BmrgDfakABHnFDiyep73RmkZAGIyCaaPbMSPimfkxI0veTTojB9Qo09dgAUgPjvJYGVDJYYbgwz3P4Lv7qjZBQ==
+gatsby-theme-kb@^0.5.2:
+  version "0.5.2"
+  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.5.2.tgz#4929dcfc28548ef37f4cccad94e77dcfffc83c09"
+  integrity sha512-4L+mID4ZYMn62b+rdXP7ZsCd38ThpxOyd+KZHr0X/1P64IFl2+FHfL02GqXhLTtBOgTMPEMvG806BVGXq8/3rA==
   dependencies:
     "@gatsby-project-kb/transformer-wiki-references" "^0.2.1"
     "@mdx-js/mdx" "^1.6.22"
@@ -6560,7 +6560,7 @@ gatsby-theme-kb@^0.4.3:
     gatsby-source-filesystem "^2.5.0"
     gatsby-transformer-remark "^2.12.0"
     gatsby-transformer-sharp "^2.6.0"
-    note-graph "^0.1.4"
+    note-graph "^0.1.5"
     postcss "^8.2.4"
     prop-types "^15.7.2"
     react "^16.12.0"
@@ -9650,9 +9650,9 @@ node-libs-browser@^2.2.1:
     vm-browserify "^1.0.1"
 
 node-object-hash@^2.0.0:
-  version "2.3.0"
-  resolved "https://registry.npmjs.org/node-object-hash/-/node-object-hash-2.3.0.tgz#32c4c10951dc5b5ef655884d7a13393cb765971c"
-  integrity sha512-1z2MMT5H3NvCpo1eCuiktkX7hhGq6BjmiQpjnI/UUWJiVRnAafdhJivDR/VYMlvYnD9sMU2sRg1griSZRpIEtA==
+  version "2.3.1"
+  resolved "https://registry.npmjs.org/node-object-hash/-/node-object-hash-2.3.1.tgz#5e4a6ac7f932cec4f90aff2fbdb953cb83344416"
+  integrity sha512-ab7pm34jqISawXpJ+fHjj2E9CmzDtm2fTTdurgzbWXIrdTEk2q2cSZRzoeGrwa0cvq6Sqezq6S9bhOBYPHRzuQ==
 
 node-releases@^1.1.70:
   version "1.1.71"
@@ -9728,7 +9728,7 @@ normalize-url@^4.1.0:
   resolved "https://registry.npmjs.org/normalize-url/-/normalize-url-4.5.0.tgz#453354087e6ca96957bd8f5baf753f5982142129"
   integrity sha512-2s47yzUxdexf1OhyRi4Em83iQk0aPvwTddtFz4hnSSw9dCEsLEGf6SwIO8ss/19S9iBb5sJaOuTvTGDeZI00BQ==
 
-note-graph@^0.1.4:
+note-graph@^0.1.5:
   version "0.1.5"
   resolved "https://registry.npmjs.org/note-graph/-/note-graph-0.1.5.tgz#1a5b2d6cb5a25f1e73ceeb22f31cfb1e19c4bc1a"
   integrity sha512-yodzbtZxuS+ivzKKtMxoFteEXLKZlwdQvOZl44UVjlrkuIio9UymJXAF64k447qzO0SbH5kmpDOsz+1vNePKmQ==
@@ -12816,9 +12816,9 @@ string-width@^3.0.0, string-width@^3.1.0:
     strip-ansi "^5.1.0"
 
 string-width@^4.0.0, string-width@^4.1.0, string-width@^4.2.0:
-  version "4.2.1"
-  resolved "https://registry.npmjs.org/string-width/-/string-width-4.2.1.tgz#1933ce1f470973d224368009bd1316cad81d5f4f"
-  integrity sha512-LL0OLyN6AnfV9xqGQpDBwedT2Rt63737LxvsRxbcwpa2aIeynBApG2Sm//F3TaLHIR1aJBN52DWklc06b94o5Q==
+  version "4.2.2"
+  resolved "https://registry.npmjs.org/string-width/-/string-width-4.2.2.tgz#dafd4f9559a7585cfba529c6a0a4f73488ebd4c5"
+  integrity sha512-XBJbT3N4JhVumXE0eoLU9DCjcaF92KLNqTmFCnG1pf8duUxFGwtP6AD6nkjw9a3IdiRtL3E2w3JDiE/xi3vOeA==
   dependencies:
     emoji-regex "^8.0.0"
     is-fullwidth-code-point "^3.0.0"

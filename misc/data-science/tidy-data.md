@@ -1,9 +1,6 @@
 tidy-data
 ===
 
-Author: Hadley Wickham
-DOI: 10.18637/jss.v059.i10
-
 | Field  | value                                       |
 | ------ | ------------------------------------------- |
 | Author | Hadley Wickham                              |

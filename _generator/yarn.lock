@@ -5766,10 +5766,10 @@ gatsby-telemetry@^2.0.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-kb@^0.5.4-alpha.0:
-  version "0.5.4-alpha.0"
-  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.5.4-alpha.0.tgz#93e51421b6bec5d7d8fa998ed9dafd080b7a0a14"
-  integrity sha512-ldrhxMKrqrohQaMdVc4w1eaI3wRf7NT8p7UyW4olwiaABewL07EDfnrCZ3CfKnQPwaGE7rlvWl3VEsEY+9dI5w==
+gatsby-theme-kb@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.6.0.tgz#e1462c2cb8b7a3d662dd0979e3d30dd610914d54"
+  integrity sha512-OmMeOmkWQqpqg/xkfBGEvGRsIVYGISZZVUjb7Tji1FGnEDHgejA4jZQdB8ccn8j5AFxgZ2CnreDW5PR0bxztAg==
   dependencies:
     "@gatsby-project-kb/transformer-wiki-references" "^0.2.1"
     "@mdx-js/mdx" "^1.6.22"

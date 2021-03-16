@@ -5,7 +5,7 @@ const cwd = process.cwd()
 
 const GEN_END_MARK = 'end-generated'
 
-const IGNORE_DIRS = ['people']
+const IGNORE_DIRS = ['people', 'misc']
 
 const dirs = fs.readdirSync(process.cwd()).filter((d) => {
   return (!IGNORE_DIRS.includes(d)) && (!d.startsWith('.') && !d.startsWith('_'))

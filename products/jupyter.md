@@ -8,3 +8,16 @@ Jupyter
 
 教程:
 - [最详尽使用指南：超快上手Jupyter Notebook - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/32320214#tocbar-i39bnu)，17 年的 Jupyter Notebook 教程，与 lab 的主要使用方法类似。
+
+- [Jupyter Lab - Shortcut and Magic Functions - Python IDE for Data Science](https://yoursdata.net/jupyter-lab-shortcut-and-magic-functions-tips/) cheat sheet
+
+## 自己用的一些插件
+
+- [mauhai/awesome-jupyterlab: A curated list of awesome JupyterLab extensions and resources](https://github.com/mauhai/awesome-jupyterlab)，遇事不决，awesome 一哈。
+- [arbennett/jupyterlab-themes: More color themes for Jupyter Lab](https://github.com/arbennett/jupyterlab-themes)
+
+## JupyterLab 插件开发
+
+插件开发:
+
+- [Extension Developer Guide — JupyterLab 3.0.10 documentation](https://jupyterlab.readthedocs.io/en/stable/extension/extension_dev.html)

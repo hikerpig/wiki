@@ -1077,10 +1077,13 @@
   dependencies:
     purgecss "^3.1.3"
 
-"@gatsby-project-kb/transformer-wiki-references@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.npmjs.org/@gatsby-project-kb/transformer-wiki-references/-/transformer-wiki-references-0.2.1.tgz#e29cc2bcc5db4f2b70df180936713fe326c007b7"
-  integrity sha512-TVLK9yoc9FFDiG7aDLGCW4vEdK4EtH4p1RqwxoBkwheNFquWMrMbZHvxqu4ITMHrTIn8wD8rp8txdbek463VYw==
+"@gatsby-project-kb/transformer-wiki-references@^0.3.0-alpha.1":
+  version "0.3.0-alpha.1"
+  resolved "https://registry.npmjs.org/@gatsby-project-kb/transformer-wiki-references/-/transformer-wiki-references-0.3.0-alpha.1.tgz#410a353f180f8256e5961579ea39c818269f044a"
+  integrity sha512-PAOn+rDbKAoAkWDDNRff/6cx2524z93Delrnct3lfYxU8D6AgGeMH8PXTnH8vegofhMsV0z9CncO9PUe6rVUnQ==
+  dependencies:
+    "@nodelib/fs.walk" "^1.2.6"
+    anymatch "^3.1.2"
 
 "@gatsbyjs/reach-router@^1.3.6":
   version "1.3.6"
@@ -1350,7 +1353,7 @@
   resolved "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.4.tgz#a3f2dd61bab43b8db8fa108a121cfffe4c676655"
   integrity sha512-IYlHJA0clt2+Vg7bccq+TzRdJvv19c2INqBSsoOLp1je7xjtr7J26+WXR72MCdvU9q1qTzIWDfhMf+DRvQJK4Q==
 
-"@nodelib/fs.walk@^1.2.3", "@nodelib/fs.walk@^1.2.4":
+"@nodelib/fs.walk@^1.2.3", "@nodelib/fs.walk@^1.2.4", "@nodelib/fs.walk@^1.2.6":
   version "1.2.6"
   resolved "https://registry.npmjs.org/@nodelib/fs.walk/-/fs.walk-1.2.6.tgz#cce9396b30aa5afe9e3756608f5831adcb53d063"
   integrity sha512-8Broas6vTtW4GIXTAHDoE32hnN2M5ykgCpWGbuXHQ15vEMqr23pB76e/GZcYsZCHALv50ktd24qhEyKr6wBtow==
@@ -2110,6 +2113,14 @@ anymatch@^2.0.0:
   dependencies:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
+
+anymatch@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.npmjs.org/anymatch/-/anymatch-3.1.2.tgz#c0557c096af32f106198f4f4e2a383537e378716"
+  integrity sha512-P43ePfOAIupkguHUycrc4qJ9kz8ZiuOUijaETwX7THt0Y/GNK7v0aa8rY816xWjZ7rJdA5XdMcpVFTKMq+RvWg==
+  dependencies:
+    normalize-path "^3.0.0"
+    picomatch "^2.0.4"
 
 anymatch@~3.1.1:
   version "3.1.1"
@@ -5720,10 +5731,10 @@ gatsby-remark-prismjs@^3.13.0:
     parse-numeric-range "^0.0.2"
     unist-util-visit "^1.4.1"
 
-gatsby-remark-wiki-link@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/gatsby-remark-wiki-link/-/gatsby-remark-wiki-link-0.2.0.tgz#58d5e54a1aff500d22cae26480f45266e25987cc"
-  integrity sha512-bLPpfyn/dMMg7w2+Dn0IfJgv1u3sQfvMP0sg7pDpiVE7eO2H/aGYOZuES/usiebySt0b6hvZ3WkrQgEqHbSnXw==
+gatsby-remark-wiki-link@^0.3.0-alpha.0:
+  version "0.3.0-alpha.0"
+  resolved "https://registry.npmjs.org/gatsby-remark-wiki-link/-/gatsby-remark-wiki-link-0.3.0-alpha.0.tgz#e3f6931585c22d359a7ce9439c7e0f943ff7462b"
+  integrity sha512-vxF5IRFa6GTkY/S/NdyvEaYv9r6ccssrr00T1ipNqXqUMnIRTJXeOmv+/p0HH+vGEOEWPaUK13e+SR63q1JhDw==
   dependencies:
     slugify "^1.4.6"
 
@@ -5766,12 +5777,12 @@ gatsby-telemetry@^2.0.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-kb@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.6.0.tgz#e1462c2cb8b7a3d662dd0979e3d30dd610914d54"
-  integrity sha512-OmMeOmkWQqpqg/xkfBGEvGRsIVYGISZZVUjb7Tji1FGnEDHgejA4jZQdB8ccn8j5AFxgZ2CnreDW5PR0bxztAg==
+gatsby-theme-kb@^0.7.0-alpha.1:
+  version "0.7.0-alpha.1"
+  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.7.0-alpha.1.tgz#6d81bff72aee5d0fddca7ac459d025a74454bfbf"
+  integrity sha512-hJ7T/NbqIdDqU0olHI8I63RHyANQwwcHZIXccE+VW2jGt+UIsMn9XAG4K/ymGyy9y1tXbELwOoN1tXme+pKIuw==
   dependencies:
-    "@gatsby-project-kb/transformer-wiki-references" "^0.2.1"
+    "@gatsby-project-kb/transformer-wiki-references" "^0.3.0-alpha.1"
     "@mdx-js/mdx" "^1.6.22"
     "@mdx-js/react" "^1.6.22"
     "@reecelucas/react-use-hotkeys" "^1.3.1"
@@ -5788,7 +5799,7 @@ gatsby-theme-kb@^0.6.0:
     gatsby-plugin-tocbot "^0.1.0"
     gatsby-react-router-scroll "^3.6.0"
     gatsby-remark-double-parenthesis-link "^0.1.2"
-    gatsby-remark-wiki-link "^0.2.0"
+    gatsby-remark-wiki-link "^0.3.0-alpha.0"
     gatsby-source-filesystem "^2.5.0"
     note-graph "^0.1.5"
     path-browserify "^1.0.1"

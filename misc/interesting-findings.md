@@ -12,3 +12,8 @@ Interesting findings
 相关理论词条
 - [Risk homeostasis](https://psychology.wikia.org/wiki/Risk_homeostasis)，风险自平衡。
 - [Risk compensation - Wikipedia](https://en.wikipedia.org/wiki/Risk_compensation)
+
+
+### 盟军统计学家使用概率论估计德军坦克产量
+
+> 当年，德国佬正在大规模地生产坦克，盟军想要知道他们每个月的坦克产量数。为了了解这个信息，盟军采取了两种方法：一是根据情报人员刺探的消息而得到，另一种是根据盟军发现和截获的德国坦克数据，用统计分析办法得到。根据第一种方法得到的情报，德军坦克每个月的产量大约有1400辆，但根据概率统计推断的方法，预计的数量只有数百辆。二战之后，盟军对德国的坦克生产记录进行了检查，发现统计方法预测的答案（见表1）令人惊讶地与事实符合

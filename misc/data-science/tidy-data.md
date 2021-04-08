@@ -18,7 +18,6 @@ tidy-data
 
 - [数据整理（Tidy Data）—翻译Hadley Wickham的一篇论文 - 知乎](https://zhuanlan.zhihu.com/p/27579776)
 
-
 ## 相关代码
 
 - [Tidy Data with Python | Qiushi Yan](https://qiushi.rbind.io/post/python-tidy-data/)

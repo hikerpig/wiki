@@ -12,3 +12,9 @@ Terminal
 ## 颜色
 
 - [用 LS_COLOR 在 Terminal 中為檔名加上色彩吧！](https://share.tenten.co/%E7%94%A8-ls-color-%E5%9C%A8-terminal-%E4%B8%AD%E7%82%BA%E6%AA%94%E5%90%8D%E5%8A%A0%E4%B8%8A%E8%89%B2%E5%BD%A9%E5%90%A7-31232ac7046)
+- [Creating a tmux Colour Theme · Cassidy K](https://cassidy.codes/blog/2019-08-03-tmux-colour-theme/) ， tmux 的  Dracula 主题 
+
+
+## Zsh
+
+- [zsh - Git completion with aliases - Super User](https://superuser.com/questions/415237/git-completion-with-aliases)

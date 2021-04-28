@@ -21,3 +21,7 @@
 - [webpack 5 , deep scope analysis](https://webpack.js.org/blog/2020-10-10-webpack-5-release/#inner-module-tree-shaking)
 
 Webpack 4 对导出和依赖之间的关系分析不够细致，无法满足工程需求。
+
+### Splitchunks
+
+- [Webpack: What is the difference between "all" and "initial" options in optimization.splitChunks.chunks - Stack Overflow](https://stackoverflow.com/questions/50127185/webpack-what-is-the-difference-between-all-and-initial-options-in-optimizat)

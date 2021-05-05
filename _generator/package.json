@@ -17,10 +17,10 @@
   "dependencies": {
     "@aaromp/gatsby-plugin-plausible": "^1.0.0",
     "gatsby": "^3.4.0",
-    "gatsby-plugin-marka": "1.1.1",
+    "gatsby-plugin-marka": "^1.2.0",
     "gatsby-plugin-no-sourcemaps": "^2.9.0",
     "gatsby-remark-prismjs": "^3.13.0",
-    "gatsby-theme-kb": "^0.7.0-alpha.3",
+    "gatsby-theme-kb": "^0.7.1",
     "prism-themes": "^1.5.0",
     "prismjs": "^1.23.0"
   }

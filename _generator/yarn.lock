@@ -1085,10 +1085,10 @@
   dependencies:
     purgecss "^3.1.3"
 
-"@gatsby-project-kb/transformer-wiki-references@^0.3.0-alpha.2":
-  version "0.3.0-alpha.2"
-  resolved "https://registry.npmjs.org/@gatsby-project-kb/transformer-wiki-references/-/transformer-wiki-references-0.3.0-alpha.2.tgz#8f0018c9ef4e75124a9e5c36bca4f107cbaa6ad6"
-  integrity sha512-m9PdPnER6wmBDJ/DxpL8GrygSz9JAH/ApgVrP+pSPecNAJ4fcEkq3sgajrwZC+AIktszvV9QQsVt3BuEJAI8BQ==
+"@gatsby-project-kb/transformer-wiki-references@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.npmjs.org/@gatsby-project-kb/transformer-wiki-references/-/transformer-wiki-references-0.3.0.tgz#e72de815459dba171b15ed15efec72bed5f28e6e"
+  integrity sha512-nxfFUIMl1J54B7alHd1mwzC7dXdiKXDm1Dm3LKV5/Xbz9neYQ9BCMTfgu5vrRNfHYA5TW/Cm29Sfg3ODHIi02w==
   dependencies:
     "@nodelib/fs.walk" "^1.2.6"
     anymatch "^3.1.2"
@@ -2542,10 +2542,10 @@ better-queue@^3.8.10:
     node-eta "^0.9.0"
     uuid "^3.0.0"
 
-bezier-js@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.npmjs.org/bezier-js/-/bezier-js-4.0.3.tgz#9e076d66f609bca9fc08dd22201596d52d3cc49d"
-  integrity sha512-w85AFcZ7EkszFgxuHYQ2/BI2G7H5bEotZD9vcg8+Hx4S8zF2odJBoFSFvGbcFDH5ScSxG27/IhW03SigVmkXNQ==
+bezier-js@^4.1.0:
+  version "4.1.1"
+  resolved "https://registry.npmjs.org/bezier-js/-/bezier-js-4.1.1.tgz#414df656833104e86765c0fa5e31439fb3e83a34"
+  integrity sha512-oVOS6SSFFFlfnZdzC+lsfvhs/RRcbxJ47U04M4s5QIBaJmr3YWmTIL3qmrOK9uW+nUUcl9Jccmo/xpTrG+bBoQ==
 
 big.js@^5.2.2:
   version "5.2.2"
@@ -3905,7 +3905,7 @@ d3-scale-chromatic@2, d3-scale-chromatic@^2.0.0:
     d3-color "1 - 2"
     d3-interpolate "1 - 2"
 
-d3-scale@3, d3-scale@^3.2.3, d3-scale@^3.2.4:
+d3-scale@3, d3-scale@^3.2.3, d3-scale@^3.3.0:
   version "3.3.0"
   resolved "https://registry.npmjs.org/d3-scale/-/d3-scale-3.3.0.tgz#28c600b29f47e5b9cd2df9749c206727966203f3"
   integrity sha512-1JGp44NQCt5d1g+Yy+GeOnZP7xHo0ii8zsQp6PGzd+C1/dl0KGsp9A7Mxwp+1D1o4unbTTxVdU/ZOIEBoeZPbQ==
@@ -5317,19 +5317,19 @@ for-in@^1.0.2:
   resolved "https://registry.npmjs.org/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"
   integrity sha1-gQaNKVqBQuwKxybG4iAMMPttXoA=
 
-force-graph@^1.35.1:
-  version "1.40.0"
-  resolved "https://registry.npmjs.org/force-graph/-/force-graph-1.40.0.tgz#ea51efb274f73556ac22af20d29f01d5b5b565f8"
-  integrity sha512-5pVmDayO6q6fv22R0tdcnUiXtEnOfezVowwlZ3M2rAspO/v2epwWCEn6lc7YZP7PzIlD6ZRpy7L2b57Dl/dZ5g==
+force-graph@^1.40.3:
+  version "1.40.3"
+  resolved "https://registry.npmjs.org/force-graph/-/force-graph-1.40.3.tgz#c49394bad53c47ea694b602793d899dd3bcef72e"
+  integrity sha512-FTGEU/QlknVHrXNzhPccCY3bXVL7ViTQaViZzHJMxE31wnSRq/y/ay5vUYnb7h6WvcCN4ilkHQEi/ipFSSlJ3w==
   dependencies:
     "@tweenjs/tween.js" "^18.6.4"
     accessor-fn "^1.3.0"
-    bezier-js "^4.0.3"
+    bezier-js "^4.1.0"
     canvas-color-tracker "^1.1.4"
     d3-array "^2.12.1"
     d3-drag "^2.0.0"
     d3-force-3d "^2.3.2"
-    d3-scale "^3.2.4"
+    d3-scale "^3.3.0"
     d3-scale-chromatic "^2.0.0"
     d3-selection "^2.0.0"
     d3-zoom "^2.0.0"
@@ -5586,10 +5586,10 @@ gatsby-plugin-local-search@^2.0.0:
     lunr "^2.3.8"
     pascal-case "^3.1.1"
 
-gatsby-plugin-marka@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.npmjs.org/gatsby-plugin-marka/-/gatsby-plugin-marka-1.1.1.tgz#f9ad7c96b65ecd470b2e2a53f239b9a138d4b4ea"
-  integrity sha512-nI3dLYQa47IgvwCUaZkMLm/5EqgzN8uAGRNjziAbOEJGAag0TOVIQlzzgFcKlbR+knpe/VOL6jwhfcJrBtrTTA==
+gatsby-plugin-marka@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/gatsby-plugin-marka/-/gatsby-plugin-marka-1.2.0.tgz#1067188563f8febc801a9514fe6cc28b2fd69876"
+  integrity sha512-m2SGmA9Dy3zWR/rvJoaFQvN4A1mtDZy1e+voGOfLe0m76cumSKCIYqSHgmaSLCyvqkY0desZbtxaauTR/Zs0ag==
 
 gatsby-plugin-mdx@^2.0.0:
   version "2.3.0"
@@ -5797,10 +5797,10 @@ gatsby-remark-prismjs@^3.13.0:
     parse-numeric-range "^0.0.2"
     unist-util-visit "^1.4.1"
 
-gatsby-remark-wiki-link@^0.3.0-alpha.0:
-  version "0.3.0-alpha.0"
-  resolved "https://registry.npmjs.org/gatsby-remark-wiki-link/-/gatsby-remark-wiki-link-0.3.0-alpha.0.tgz#e3f6931585c22d359a7ce9439c7e0f943ff7462b"
-  integrity sha512-vxF5IRFa6GTkY/S/NdyvEaYv9r6ccssrr00T1ipNqXqUMnIRTJXeOmv+/p0HH+vGEOEWPaUK13e+SR63q1JhDw==
+gatsby-remark-wiki-link@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.npmjs.org/gatsby-remark-wiki-link/-/gatsby-remark-wiki-link-0.3.0.tgz#2ff3ab4d56fbf4c35f7a6b9c014874479166382e"
+  integrity sha512-arw5edQm0FQOmFqCWDWCRuVyapFmQIFD9sM2btahUGoD9xtl3aK8tetnttqHrv0vMqSYCSWvxo4102pUyyJ68g==
   dependencies:
     slugify "^1.4.6"
 
@@ -5843,12 +5843,12 @@ gatsby-telemetry@^2.4.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-kb@^0.7.0-alpha.3:
-  version "0.7.0-alpha.3"
-  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.7.0-alpha.3.tgz#6aae5ba7a8b6a8cee5341df755b8b61609e5d520"
-  integrity sha512-k86fdP8arf7diOEfl7W0ugbUdcBFPtu2s0LAQJLIhitnnsHpi68JT6Ncxct6sDcpr5XtVMBhZeqb6AKBvG7vrQ==
+gatsby-theme-kb@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.7.1.tgz#b1bae0fe5f32edfa81d4512f087e23fc40703681"
+  integrity sha512-eeoG+arSTWta3DcG5ZeNnMOcyoTyNq9+Pt8TrljTB7jB/Go7IXnpNk91nx7j0EZLQS7woYjo5GwkVjv9fSHakg==
   dependencies:
-    "@gatsby-project-kb/transformer-wiki-references" "^0.3.0-alpha.2"
+    "@gatsby-project-kb/transformer-wiki-references" "^0.3.0"
     "@mdx-js/mdx" "^1.6.22"
     "@mdx-js/react" "^1.6.22"
     "@reecelucas/react-use-hotkeys" "^1.3.1"
@@ -5865,9 +5865,9 @@ gatsby-theme-kb@^0.7.0-alpha.3:
     gatsby-plugin-tocbot "^0.1.0"
     gatsby-react-router-scroll "^3.6.0"
     gatsby-remark-double-parenthesis-link "^0.1.2"
-    gatsby-remark-wiki-link "^0.3.0-alpha.0"
+    gatsby-remark-wiki-link "^0.3.0"
     gatsby-source-filesystem "^3.4.0"
-    note-graph "^0.1.5"
+    note-graph "^0.2.0"
     path-browserify "^1.0.1"
     postcss "^8.2.4"
     prop-types "^15.7.2"
@@ -8694,16 +8694,16 @@ normalize-url@^4.1.0:
   resolved "https://registry.npmjs.org/normalize-url/-/normalize-url-4.5.0.tgz#453354087e6ca96957bd8f5baf753f5982142129"
   integrity sha512-2s47yzUxdexf1OhyRi4Em83iQk0aPvwTddtFz4hnSSw9dCEsLEGf6SwIO8ss/19S9iBb5sJaOuTvTGDeZI00BQ==
 
-note-graph@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.npmjs.org/note-graph/-/note-graph-0.1.5.tgz#1a5b2d6cb5a25f1e73ceeb22f31cfb1e19c4bc1a"
-  integrity sha512-yodzbtZxuS+ivzKKtMxoFteEXLKZlwdQvOZl44UVjlrkuIio9UymJXAF64k447qzO0SbH5kmpDOsz+1vNePKmQ==
+note-graph@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/note-graph/-/note-graph-0.2.0.tgz#087c671305474816fce86104304514b02aa7f941"
+  integrity sha512-bn3xL7yOL1B1/1bG4/6rY3z4jB9cdK2rAtHIrrRGSybhQ9SF2gK91cGmCOCG0+3ntAyyrctHcd+bJEZpye4fYQ==
   dependencies:
     d3 "^6.2.0"
     d3-color "^2.0.0"
     d3-force "^2.1.1"
     d3-scale "^3.2.3"
-    force-graph "^1.35.1"
+    force-graph "^1.40.3"
     throttle-debounce "^3.0.1"
 
 npm-run-path@^2.0.0:

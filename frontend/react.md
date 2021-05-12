@@ -10,7 +10,7 @@ Related:
 
 - [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/#use-data-fetching-libraries)
 - [[React Hooks长文总结系列一]初出茅庐，状态与副作用 - 陌上兮月 - 博客园](https://www.cnblogs.com/zhangnan35/p/14596045.html)
-
+- [How React hooks work - in depth | how-react-hooks-work](https://eliav2.github.io/how-react-hooks-work/?utm_source=reactdigest&utm_medium=email&utm_campaign=303)
 
 ## 源码解析
 

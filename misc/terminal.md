@@ -18,3 +18,8 @@ Terminal
 ## Zsh
 
 - [zsh - Git completion with aliases - Super User](https://superuser.com/questions/415237/git-completion-with-aliases)
+
+## TMUX
+
+- [Super Guide to the split-window tmux Subcommand (and Beyond)](https://gist.github.com/sdondley/b01cc5bb1169c8c83401e438a652b84e)
+- [How to send a command to all panes in tmux? - Stack Overflow](https://stackoverflow.com/questions/16325449/how-to-send-a-command-to-all-panes-in-tmux), `setw synchronize-panes`

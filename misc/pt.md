@@ -1,7 +1,11 @@
 PT 备忘
 ===
 
+使用 [[docker]] 部署一些服务
+
 ## transmisison
+
+### 发布种子
 
 ```bash
 # 进入 container， 执行 shell
@@ -13,6 +17,11 @@ docker exec -it $transmission_container "/bin/bash"
 /usr/bin/transmisison-create -p  -o "/watch/somefile.torrent" -t $tracker /download/complete/directory 
 ```
 
+### 小 tip
+
+- 安装 web control [Linux Installation CN · ronggang/transmission-web-control Wiki](https://github.com/ronggang/transmission-web-control/wiki/Linux-Installation-CN)
+
+### tracker
 - [BT Tracker 服务器地址大全与常用 BT 软件下载地址 Tracker List - DNS.iCoA.CN](https://dns.icoa.cn/tracker/)
 - [trackerslist best](https://trackerslist.com/best.txt)
 
@@ -56,4 +65,5 @@ https://tracker.nanoha.org:443/announce
 ```
 
 ## calibre-web
+
 

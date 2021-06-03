@@ -11,6 +11,8 @@ Related:
 - [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/#use-data-fetching-libraries)
 - [[React Hooks长文总结系列一]初出茅庐，状态与副作用 - 陌上兮月 - 博客园](https://www.cnblogs.com/zhangnan35/p/14596045.html)
 - [How React hooks work - in depth | how-react-hooks-work](https://eliav2.github.io/how-react-hooks-work/?utm_source=reactdigest&utm_medium=email&utm_campaign=303)
+- [acdlite/react-fiber-architecture: A description of React's new core algorithm, React Fiber](https://github.com/acdlite/react-fiber-architecture)
+- [In-depth explanation of state and props update in React | by Max Koretskyi | React In Depth | Medium](https://medium.com/react-in-depth/in-depth-explanation-of-state-and-props-update-in-react-51ab94563311#0333)
 
 ## 源码解析
 

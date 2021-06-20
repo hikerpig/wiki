@@ -14,12 +14,15 @@ docker exec -it $transmission_container "/bin/bash"
 
 ```bash
 # docker transmission 镜像中
-/usr/bin/transmisison-create -p  -o "/watch/somefile.torrent" -t $tracker /download/complete/directory 
+/usr/bin/transmission-create -p  -o "/watch/somefile.torrent" -t $tracker /downloads	/complete/directory 
 ```
+
+带有 `-p` 的是 private torrent
 
 ### 小 tip
 
 - 安装 web control [Linux Installation CN · ronggang/transmission-web-control Wiki](https://github.com/ronggang/transmission-web-control/wiki/Linux-Installation-CN)
+- [transmission命令行工具集中文使用说明 - 杂食菜熊的Blog](http://xdsnet.github.io/index.html?name=%E6%9D%82%E8%B0%88:transmission%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%E9%9B%86%E4%B8%AD%E6%96%87%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 
 ### tracker
 - [BT Tracker 服务器地址大全与常用 BT 软件下载地址 Tracker List - DNS.iCoA.CN](https://dns.icoa.cn/tracker/)

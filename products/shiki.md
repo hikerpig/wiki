@@ -9,4 +9,4 @@ shiki
 
 依赖了  vscode-textmate npm pacage，使用了 Textmate 兼容的规则和解析方式（例如这个[TypeScriptReact.tmLanguage](https://github.com/Microsoft/TypeScript-TmLanguage/blob/master/TypeScriptReact.tmLanguage)），一个很大的亮点似乎是可以直接方便地移植 vscode 的 syntax 和主题插件。
 
-不过与竞品 prismjs 比起来，包体积有点大([27.6 kB MINIFIED + GZIPPED](https://bundlephobia.com/result?p=shiki@0.9.2))。
+不过与竞品 [[prismjs]] 比起来，包体积有点大([27.6 kB MINIFIED + GZIPPED](https://bundlephobia.com/result?p=shiki@0.9.2))。

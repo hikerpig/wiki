@@ -6,6 +6,11 @@ Related:
 - [[mermaidjs]] 类似工具
 - [[bpmn]]
 
+## 项目相关
+
+1. 在 [Does a grammar exist for the language? - PlantUML Q&A](https://forum.plantuml.net/157/does-a-grammar-exist-for-the-language) 里的回答中，说明了 PlantUML 不存在 BNF 定义，一切通过正则表达式完成
+2. 早期主要的图表，都可以在 @startuml 和 @enduml 之间完成，没有像 mermaidjs 那样使用不同的起始标识符。但实际上你并没法在一个文件里混合不同的图表类型，猜测是将最早检测到的隐式图表标识设置为图表类型，之后再识别别的特有关键字，直接会报错。
+
 ## 一些工具
 
 - [Real World PlantUML](https://real-world-plantuml.com/)

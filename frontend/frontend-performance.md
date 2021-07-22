@@ -11,3 +11,4 @@ Frontend Performance
 ## 浏览器相关
 
 - [Style Invalidation in Blink - Google 文档](https://docs.google.com/document/d/1vEW86DaeVs4uQzNFI5R-_xS9TcS1Cs_EUsHRSgCHGu8/edit#)
+- [Optimizing CSS: ID Selectors and Other Myths - SitePoint](https://www.sitepoint.com/optimizing-css-id-selectors-and-other-myths/)

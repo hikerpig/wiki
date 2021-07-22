@@ -8,6 +8,7 @@ Terminal
 - [Improve Your Workflow in the Terminal with These fzf Tips](https://revelry.co/terminal-workflow-fzf/)
 - [Aloxaf/fzf-tab: Replace zsh's default completion selection menu with fzf!](https://github.com/Aloxaf/fzf-tab)
 - [打造 10X Engineer Shell 工作環境. SRE 討生活篇](https://medium.com/starbugs/%E6%89%93%E9%80%A0-10x-engineer-zsh-shell-97e40db76391)
+- [ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.](https://github.com/ibraheemdev/modern-unix)
 
 ## 颜色
 

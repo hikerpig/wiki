@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "@aaromp/gatsby-plugin-plausible": "^1.0.0",
-    "gatsby": "^3.4.0",
+    "gatsby": "^3.10.1",
     "gatsby-plugin-marka": "^1.2.0",
     "gatsby-plugin-no-sourcemaps": "^2.9.0",
     "gatsby-remark-prismjs": "^3.13.0",

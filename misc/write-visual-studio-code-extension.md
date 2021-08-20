@@ -29,3 +29,8 @@ Write Visual Studio Code Extension
   ]
 }
 ```
+
+## 语言插件
+
+官方的文档简单介绍了重要概念[Syntax Highlight Guide | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide)。
+语法高亮规则看 TextMate 的手册 [Language Grammars — TextMate 1.x Manual](https://macromates.com/manual/en/language_grammars)。

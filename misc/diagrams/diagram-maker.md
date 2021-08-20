@@ -24,3 +24,4 @@ diagram-maker
 - [DrawIO](https://app.diagrams.net/)
 
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/) 这个看起来是基于 plantuml ，不过时序图的辅助 UI 可以参考一下。
+- [PlantUML Editor](https://plantuml-editor.kkeisuke.com/) 在线的 PlantUML 编辑器，体验比官网的好很多

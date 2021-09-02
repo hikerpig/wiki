@@ -16,7 +16,9 @@ diagram-maker
 **Code Based**:
 
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
-- [Structurizr](https://structurizr.com/)，一个商业产品，有自己的 DSL，可以自己渲染，也可以转换为 plantuml 语句
+- [Structurizr](https://structurizr.com/)，一个商业产品，有自己的建模 DSL，可以自己渲染，也可以转换为 plantuml/mermaid 语句自动画图。
+- [nomnoml](https://nomnoml.com/)，text -> UML 的工具和在线编辑器，基于 canvas 绘制
+
 
 **GUI Based**:
 
@@ -24,4 +26,5 @@ diagram-maker
 - [DrawIO](https://app.diagrams.net/)
 
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/) 这个看起来是基于 plantuml ，不过时序图的辅助 UI 可以参考一下。
-- [PlantUML Editor](https://plantuml-editor.kkeisuke.com/) 在线的 PlantUML 编辑器，体验比官网的好很多
+- [PlantUML Editor](https://plantuml-editor.kkeisuke.com/) 在线的 PlantUML 编辑器，体验比官网的好很多。
+- [Pintora Live Editor](https://pintorajs.vercel.app/demo/live-editor/)，pintora.js 项目的在线编辑器，参考了 mermaid.js 的 live editor。

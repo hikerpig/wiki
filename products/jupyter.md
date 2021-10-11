@@ -25,3 +25,7 @@ Jupyter
 ## 搭建服务
 
 [How To Set Up a JupyterLab Environment on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyterlab-environment-on-ubuntu-18-04#step-3-%E2%80%94-configuring-jupyterlab)
+
+## 甚至还有个 Jupyter Book
+
+[Books with Jupyter](https://jupyterbook.org/intro.html) 可以用来写书。

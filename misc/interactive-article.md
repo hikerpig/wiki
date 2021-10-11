@@ -28,3 +28,5 @@ Interactive Article - 交互文章
 ## 一些例子
 
 - [Doga Tekin's Blog | The Hypnotic World of Degenerate Spirals](https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/)
+- [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index-1.html) 交互式的线性代数入门教材 
+

@@ -27,4 +27,5 @@ diagram-maker
 
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/) 这个看起来是基于 plantuml ，不过时序图的辅助 UI 可以参考一下。
 - [PlantUML Editor](https://plantuml-editor.kkeisuke.com/) 在线的 PlantUML 编辑器，体验比官网的好很多。
+- [PlantText UML Editor](https://www.planttext.com) 类似上一个，但是略丑
 - [Pintora Live Editor](https://pintorajs.vercel.app/demo/live-editor/)，pintora.js 项目的在线编辑器，参考了 mermaid.js 的 live editor。

@@ -18,6 +18,7 @@
 - [Webpack 中的 sideEffects 到底该怎么用？](https://juejin.cn/post/6844903640533041159)
 - [你的Tree-Shaking并没什么卵用 - 知乎](https://zhuanlan.zhihu.com/p/32831172)
 - [javascript - What Does Webpack 4 Expect From A Package With sideEffects: false - Stack Overflow](https://stackoverflow.com/questions/49160752/what-does-webpack-4-expect-from-a-package-with-sideeffects-false)
+- [聊聊 Webpack4 的 Tree Shaking - 知乎](https://zhuanlan.zhihu.com/p/260724544)
 - [webpack 5 , deep scope analysis](https://webpack.js.org/blog/2020-10-10-webpack-5-release/#inner-module-tree-shaking)
 
 Webpack 4 对导出和依赖之间的关系分析不够细致，无法满足工程需求。

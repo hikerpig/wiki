@@ -12,6 +12,7 @@ Related: [[ultisnips]]
 - [Debugging Vim by example — David Winterbottom](https://codeinthehole.com/tips/debugging-vim-by-example/)
 - [A Vim Guide For Experts](https://thevaluable.dev/vim-expert/) ，从浅到深的这个系列很不错。
 - [Using buffers, windows, and tabs efficiently in Vim - DEV Community 👩‍💻👨‍💻](https://dev.to/iggredible/using-buffers-windows-and-tabs-efficiently-in-vim-56jc) 区分好这几个概念 （否则像我一样习惯了 tabs 再去使用 bufferline.nvim 困难重重）
+- [记一次优化Vim启动速度](http://wzmmmmj.com/2020/03/28/vim-startuptime-optimize/)
 
 ## GUIs
 
@@ -22,3 +23,4 @@ Related: [[ultisnips]]
 ## 小 tip
 
 - `40G` 跳到第 40 行，`20|`  (pipe 符号) 跳到第 20 列。
+- [How to increase the vertical split window size in Vim - Stack Overflow](https://stackoverflow.com/questions/4368690/how-to-increase-the-vertical-split-window-size-in-vim)

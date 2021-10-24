@@ -20,7 +20,7 @@
     "gatsby-plugin-marka": "^1.2.0",
     "gatsby-plugin-no-sourcemaps": "^3.13.0",
     "gatsby-remark-prismjs": "^5.10.0",
-    "gatsby-theme-kb": "^0.7.8",
+    "gatsby-theme-kb": "^0.8.0",
     "prism-themes": "^1.8.0",
     "prismjs": "^1.24.1"
   }

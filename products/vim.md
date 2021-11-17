@@ -24,3 +24,4 @@ Related: [[ultisnips]]
 
 - `40G` 跳到第 40 行，`20|`  (pipe 符号) 跳到第 20 列。
 - [How to increase the vertical split window size in Vim - Stack Overflow](https://stackoverflow.com/questions/4368690/how-to-increase-the-vertical-split-window-size-in-vim)
+- command line  mode 下使用 `:options` 可以调出完整的可设置参数列表

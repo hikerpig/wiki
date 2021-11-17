@@ -12,3 +12,8 @@ typescript
 
 - [Writing a Language Service Plugin · microsoft/TypeScript Wiki](https://github.com/microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin)
 - [Using the Compiler API · microsoft/TypeScript Wiki](https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API)
+
+
+## About the compiler
+
+- [How the TypeScript Compiler Compiles - understanding the compiler internal - YouTube](https://www.youtube.com/watch?v=X8k_4tZ16qU)

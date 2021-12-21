@@ -10,7 +10,7 @@ Atom 团队成员 Max Brunsfeld 原先的一个个人项目，后来他加入了
 特性:
 - incremental parsing
 - error retry
-
+- 提供了 wasm binding [web-tree-sitter - npm](https://www.npmjs.com/package/web-tree-sitter) 和 Node.js binding 。其他
 
 ### GLR
 

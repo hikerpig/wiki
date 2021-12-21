@@ -33,3 +33,8 @@
 
 - [An in-depth perspective on webpack's bundling process - JavaScript inDepth](https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process)
 - [Demistifying webpack's 'import' function: using dynamic arguments](https://indepth.dev/posts/1483/demistifying-webpacks-import-function-using-dynamic-arguments)
+
+
+## 其他文章
+
+- [Understanding why our build got 15x slower with Webpack 5 - Tines Engineering](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack) ，debug webpack 和使用的插件。

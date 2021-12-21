@@ -12,3 +12,4 @@ Alfred
 
 - [Packal](http://www.packal.org/) Alfred workflow 和主题的展示站
 - [alfred-workflow · GitHub Topics](https://github.com/topics/alfred-workflow) Github 上的 workflow 很多，只要你会搜
+- [Alfredworkflows.store: the unique store of Alfred Workflows](https://www.alfredworkflows.store/)

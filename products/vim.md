@@ -25,3 +25,4 @@ Related: [[ultisnips]]
 - `40G` 跳到第 40 行，`20|`  (pipe 符号) 跳到第 20 列。
 - [How to increase the vertical split window size in Vim - Stack Overflow](https://stackoverflow.com/questions/4368690/how-to-increase-the-vertical-split-window-size-in-vim)
 - command line  mode 下使用 `:options` 可以调出完整的可设置参数列表
+- `<c-x><c-f>` 可以补全文件名（File name completion），详情见 `:help compl-filename`。关于 `<c-x>` 的其他补全模式，可见 [VIM学习笔记 自动补全详解(Auto-Completion Detail) - 知乎](https://zhuanlan.zhihu.com/p/106309525)。

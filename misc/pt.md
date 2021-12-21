@@ -7,7 +7,7 @@ PT 备忘
 
 [威联通在Container Station中安装Transmission，超级简单 - 什么值得买](https://post.smzdm.com/p/a83dqnpq/)
 
-[使用Docker安装Transmission | 生命不息 折腾不止](http://blog.sysu.tech/Docker/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85Transmission/)
+[使用Docker安装Transmission - 生命不息 折腾不止](http://blog.sysu.tech/Docker/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85Transmission/)
 
 ```shell
 docker create \

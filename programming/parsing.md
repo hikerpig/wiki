@@ -25,3 +25,9 @@ parsing
 ## JS 下的 parser 生态
 
 - [Parsing in JavaScript: all the tools and libraries you can use](https://tomassetti.me/parsing-in-javascript/)。最后介绍了 [Chevrotain/chevrotain: Parser Building Toolkit for JavaScript](https://github.com/Chevrotain/chevrotain) 这个库，感觉挺有意思。
+
+
+## AST and CST
+
+- [[abstract-syntax-tree]]
+- [compiler construction - What's the difference between parse trees and abstract syntax trees (ASTs)? - Stack Overflow](https://stackoverflow.com/questions/5026517/whats-the-difference-between-parse-trees-and-abstract-syntax-trees-asts)

@@ -3,6 +3,8 @@ Write Visual Studio Code Extension
 
 开发文档写得很详实， 先 [通读一遍 Overview](https://code.visualstudio.com/api)，甚至完整看过教程，即可对基础概念有一些理解。剩下的事情，就是看一些优秀的或是自己感兴趣的开源插件代码。
 
+这里还有一个 readthedocs 的文档， 似乎是从 docs 目录里抽取出来的，[Api debugging - vscode-docs](https://vscode-docs.readthedocs.io/en/stable/extensionAPI/api-debugging/)
+
 
 ## 调试与测试
 
@@ -32,5 +34,20 @@ Write Visual Studio Code Extension
 
 ## 语言插件
 
-官方的文档简单介绍了重要概念[Syntax Highlight Guide | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide)。
-语法高亮规则看 TextMate 的手册 [Language Grammars — TextMate 1.x Manual](https://macromates.com/manual/en/language_grammars)。
+官方的文档简单介绍了重要概念
+
+- [Syntax Highlight Guide | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide)。有通用的 token type。
+
+语法高亮规则看 TextMate 的手册
+- [Language Grammars — TextMate 1.x Manual](https://macromates.com/manual/en/language_grammars)。
+- [Regular Expressions — TextMate 1.x Manual](https://macromates.com/manual/en/regular_expressions)
+
+
+## 插件管理
+- [Publishing Extensions | Visual Studio Code Extension API](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
+## 写 webview
+- [Webview API | Visual Studio Code Extension API](https://code.visualstudio.com/api/extension-guides/webview)
+
+
+居然还有个扩展 markdown preview 的方式 [Markdown Extension | Visual Studio Code Extension API](https://code.visualstudio.com/api/extension-guides/markdown-extension)

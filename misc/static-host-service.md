@@ -8,4 +8,4 @@ static-host-service
 ## Vercel
 
 - Install command 使用 `npx npm@7 install` 暂时绕过不原生支持 npm7 的问题。  [How do I use the latest npm version for my Vercel Deployment? - Vercel Support Article](https://vercel.com/support/articles/how-do-i-use-the-latest-npm-version-for-my-vercel-deployment?query=npm%20version)
-
+- [Environment Variables – Vercel Docs](https://vercel.com/docs/concepts/projects/environment-variables) 环境变量的说明

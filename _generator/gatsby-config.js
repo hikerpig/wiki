@@ -39,13 +39,13 @@ module.exports = {
         container: '.topic-layout__content',
       }
     },
-    {
-      resolve: `@aaromp/gatsby-plugin-plausible`,
-      options: {
-        domain: 'wiki.hikerpig.cn',
-        customDomain: 'plausible.hikerpig.cn',
-      },
-    },
+    // {
+    //   resolve: `@aaromp/gatsby-plugin-plausible`,
+    //   options: {
+    //     domain: 'wiki.hikerpig.cn',
+    //     customDomain: 'plausible.hikerpig.cn',
+    //   },
+    // },
     'gatsby-plugin-no-sourcemaps'
   ],
 };

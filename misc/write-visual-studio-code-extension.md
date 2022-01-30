@@ -45,6 +45,7 @@ Write Visual Studio Code Extension
 
 ## 插件管理
 - [Publishing Extensions | Visual Studio Code Extension API](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+- [Web Extensions | Visual Studio Code Extension API](https://code.visualstudio.com/api/extension-guides/web-extensions) ，发布在 Web 版 VSCode 里也能用的扩展。
 
 ## 写 webview
 - [Webview API | Visual Studio Code Extension API](https://code.visualstudio.com/api/extension-guides/webview)

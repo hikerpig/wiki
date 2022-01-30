@@ -29,3 +29,11 @@ diagram-maker
 - [PlantUML Editor](https://plantuml-editor.kkeisuke.com/) 在线的 PlantUML 编辑器，体验比官网的好很多。
 - [PlantText UML Editor](https://www.planttext.com) 类似上一个，但是略丑
 - [Pintora Live Editor](https://pintorajs.vercel.app/demo/live-editor/)，pintora.js 项目的在线编辑器，参考了 mermaid.js 的 live editor。
+
+
+### Graphviz
+
+- [DOT Language | Graphviz](http://www.graphviz.org/doc/info/lang.html)  给出了 DOT 语言的 BNF 描述
+- [siefkenj/dotgraph: javascript parser for Graphviz dot/xdot format](https://github.com/siefkenj/dotgraph) 一个 dot parser 的 pegjs 实现
+- [anvaka/dotparser: Parser of GraphViz dot file format](https://github.com/anvaka/dotparser) 另一个 pegjs 实现
+- https://gitlab.com/graphviz/graphviz/-/tree/main/rtest/graphs   graphviz 项目的测试集

@@ -5571,10 +5571,10 @@ gatsby-remark-prismjs@^5.10.0:
     parse-numeric-range "^1.2.0"
     unist-util-visit "^2.0.3"
 
-gatsby-remark-wiki-link@^0.4.0-alpha.0:
-  version "0.4.0-alpha.0"
-  resolved "https://registry.npmjs.org/gatsby-remark-wiki-link/-/gatsby-remark-wiki-link-0.4.0-alpha.0.tgz#bba18a5df70c19c75e36bdc033874322817f2924"
-  integrity sha512-VdOaDEs4Ikd/KypqM0Wg72TwS+DAuBIEd83Y86iBfoTrsyQP0h0qGMFn18vLCdldxF+2cMsl3f5uMrmt12P61w==
+gatsby-remark-wiki-link@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.npmjs.org/gatsby-remark-wiki-link/-/gatsby-remark-wiki-link-0.4.0.tgz#54bd124cd4b8079ebfe66b8eabb912597757126b"
+  integrity sha512-hQBUvt8EAygrWzUyFwB3fO7ItsRK+KQaUcn86zvoU4a4iOVYy76Jt2YAFrnGSQERm7AWkUJreOjGk8XlSiVHuA==
   dependencies:
     slugify "^1.4.6"
 
@@ -5616,10 +5616,10 @@ gatsby-telemetry@^3.4.0:
     lodash "^4.17.21"
     node-fetch "^2.6.6"
 
-gatsby-theme-kb@^0.9.0-alpha.4:
-  version "0.9.0-alpha.4"
-  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.9.0-alpha.4.tgz#c7862573e17f14177d8af45b3665b1d52471ce56"
-  integrity sha512-c+QMyQj0f9+vF0XahY4BkWC0sqVi23BabdSmZ2LAqd7LRsuoB7V2do392coxJ8O+Pcxio80stH9pvGy3hsW6pw==
+gatsby-theme-kb@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.npmjs.org/gatsby-theme-kb/-/gatsby-theme-kb-0.9.0.tgz#6c92c844ae3c8308359cc3264e66965600397704"
+  integrity sha512-EVBc+5PGTZPDc9XTfI+/RKVToi64LAf3HNDuAoUlPjqeY1c0WdJoMZKTdr1/Xn3pQ/2a21mT9VqyfUGITtHwtg==
   dependencies:
     "@gatsby-project-kb/transformer-wiki-references" "^0.3.0"
     "@mdx-js/mdx" "^1.6.22"
@@ -5639,7 +5639,7 @@ gatsby-theme-kb@^0.9.0-alpha.4:
     gatsby-plugin-typescript "^4.4.0"
     gatsby-react-router-scroll "^5.4.0"
     gatsby-remark-double-parenthesis-link "^0.1.5"
-    gatsby-remark-wiki-link "^0.4.0-alpha.0"
+    gatsby-remark-wiki-link "^0.4.0"
     gatsby-source-filesystem "^4.4.0"
     note-graph "^0.3.0"
     path-browserify "^1.0.1"

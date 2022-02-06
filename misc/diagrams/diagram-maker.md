@@ -37,3 +37,4 @@ diagram-maker
 - [siefkenj/dotgraph: javascript parser for Graphviz dot/xdot format](https://github.com/siefkenj/dotgraph) 一个 dot parser 的 pegjs 实现
 - [anvaka/dotparser: Parser of GraphViz dot file format](https://github.com/anvaka/dotparser) 另一个 pegjs 实现
 - https://gitlab.com/graphviz/graphviz/-/tree/main/rtest/graphs   graphviz 项目的测试集
+- [Theory/Publications | Graphviz](https://graphviz.org/theory/) Graphviz 项目涉及的算法论文集合

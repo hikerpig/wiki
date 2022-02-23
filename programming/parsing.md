@@ -20,7 +20,7 @@ parsing
 
 - [解析表达文法 - Wikiwand](https://www.wikiwand.com/zh-hans/%E8%A7%A3%E6%9E%90%E8%A1%A8%E8%BE%BE%E6%96%87%E6%B3%95)
 - [PEG.js – Parser Generator for JavaScript](https://pegjs.org/)， 生成 JS 程序
-- [harc/ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/harc/ohm)
+- [harc/ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/harc/ohm) 基于 PEG 
 
 ## JS 下的 parser 生态
 
@@ -32,3 +32,6 @@ parsing
 
 - [[abstract-syntax-tree]]
 - [compiler construction - What's the difference between parse trees and abstract syntax trees (ASTs)? - Stack Overflow](https://stackoverflow.com/questions/5026517/whats-the-difference-between-parse-trees-and-abstract-syntax-trees-asts)
+
+## 其他 Parser Generator
+- [lark-parser/lark: Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.](https://github.com/lark-parser/lark)  python 写的项目，有一个 Lark.js 可以生成 js 的代码。 支持  Earley 和 LALR(1) 算法

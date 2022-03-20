@@ -1,3 +1,9 @@
+function mySlugify(str) {
+  if (!str) return str
+  let out = str.trim().replace(/\s+/g, '-')
+  return out
+}
+
 module.exports = {
   pathPrefix: `/`, // b. If you are using Netlify/Vercel, your can keep it this way
   siteMetadata: {
@@ -31,6 +37,7 @@ module.exports = {
           })
           return defaultPluginMdx
         },
+        slugifyFn: mySlugify,
       },
     },
     {

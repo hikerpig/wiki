@@ -17,3 +17,8 @@ typescript
 ## About the compiler
 
 - [How the TypeScript Compiler Compiles - understanding the compiler internal - YouTube](https://www.youtube.com/watch?v=X8k_4tZ16qU)
+
+## 编辑器相关
+
+- [03.24.2022 - TypeScript/Source Code Walkthrough: InlayHints](https://www.huy.rocks/everyday/03-24-2022-typescript-source-code-walkthrough-inlayhints)
+

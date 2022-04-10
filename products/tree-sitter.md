@@ -17,3 +17,8 @@ Atom 团队成员 Max Brunsfeld 原先的一个个人项目，后来他加入了
 wiki 上的 [GLR parser](https://www.wikiwand.com/en/GLR_parser)
 
 > a GLR parser will process all possible interpretations of a given input in a breadth-first search
+
+
+## 一些使用教程
+
+- [How to write a tree-sitter grammar in an afternoon | siraben’s musings](https://siraben.dev/2022/03/01/tree-sitter.html)

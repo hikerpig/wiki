@@ -4,6 +4,7 @@ typescript
 ## 类型体操
 
 - [Typescript Tips: 动态重载实现廉价版dependent type - 知乎](https://zhuanlan.zhihu.com/p/95829351)
+- [A complete guide to TypeScript’s never type](https://www.zhenghao.io/posts/ts-never)
 
 ## 文章
 

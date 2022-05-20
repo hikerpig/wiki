@@ -13,3 +13,4 @@ MacOS
 ## Apps
 
 - [serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [mangerlahn/Latest: A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.](https://github.com/mangerlahn/latest)

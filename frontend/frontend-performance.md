@@ -7,6 +7,7 @@ Frontend Performance
 - [Browser Rendering Optimization by james-priest](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html)
 - [Understanding Repaint and Reflow in JavaScript | The Startup](https://medium.com/swlh/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08)
 - [渲染性能优化的全局视角，教你做的比别人好](https://mp.weixin.qq.com/s/lHeSXC963L7hIDKo18HR8w#tocbar--srhv0n)
+- [Reduce the scope and complexity of style calculations](https://web.dev/reduce-the-scope-and-complexity-of-style-calculations/#reduce-the-number-of-elements-being-styled)
 
 
 ## 浏览器相关

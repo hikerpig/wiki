@@ -25,8 +25,7 @@ parsing
 ## JS 下的 parser 生态
 
 - [Parsing in JavaScript: all the tools and libraries you can use](https://tomassetti.me/parsing-in-javascript/)。最后介绍了 [Chevrotain/chevrotain: Parser Building Toolkit for JavaScript](https://github.com/Chevrotain/chevrotain) 这个库，感觉挺有意思。
-
-
+- [francisrstokes/arcsecond: ✨Zero Dependency Parser Combinator Library for JS Based on Haskell's Parsec](https://github.com/francisrstokes/arcsecond)   parser combinator
 
 ## AST and CST
 
@@ -35,3 +34,8 @@ parsing
 
 ## 其他 Parser Generator
 - [lark-parser/lark: Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.](https://github.com/lark-parser/lark)  python 写的项目，有一个 Lark.js 可以生成 js 的代码。 支持  Earley 和 LALR(1) 算法
+
+## 其他文章
+
+- [LL and LR Parsing Demystified](https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html)
+- [编译原理：LL, LR 文法浅析 - 知乎](https://zhuanlan.zhihu.com/p/94424139)

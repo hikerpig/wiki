@@ -24,3 +24,8 @@ Related:
 16 的生命周期
 
 ![](https://img2018.cnblogs.com/blog/211606/201912/211606-20191202174625536-1116659477.jpg)
+
+
+## Performance
+
+- [How to use profiling in production mode for react-dom](https://gist.github.com/bvaughn/25e6233aeb1b4f0cdb8d8366e54a3977)

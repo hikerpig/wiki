@@ -13,6 +13,7 @@ typescript
 
 - [Writing a Language Service Plugin · microsoft/TypeScript Wiki](https://github.com/microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin)
 - [Using the Compiler API · microsoft/TypeScript Wiki](https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API)
+- [TypeScript and Set Theory | Iván Ovejero](https://ivov.dev/notes/typescript-and-set-theory)
 
 
 ## About the compiler

@@ -7,6 +7,6 @@ rust
 
 ## nom
 
-一个使用 rust 写的 parser combinator
+一个使用 rust 写的 parser combinator ，关联 [[parsing]]
 
 - [Building a CEDICT parser in Rust with Nom – Brian Kung](https://briankung.dev/2021/12/07/building-a-cedict-parser-in-rust-with-nom/)

@@ -18,6 +18,8 @@ diagram-maker
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 - [Structurizr](https://structurizr.com/)，一个商业产品，有自己的建模 DSL，可以自己渲染，也可以转换为 plantuml/mermaid 语句自动画图。
 - [nomnoml](https://nomnoml.com/)，text -> UML 的工具和在线编辑器，基于 canvas 绘制
+- [[plantuml]]
+- [[mermaidjs]]
 
 
 **GUI Based**:

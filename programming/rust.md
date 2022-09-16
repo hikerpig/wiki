@@ -18,3 +18,4 @@ rust
 - https://github.com/rust-unofficial/patterns
 - [介绍 - Rust 秘典（死灵书）](https://nomicon.purewhite.io/)
 - [关于 pracitce.rs - Rust By Practice( Rust 练习实践 )](https://zh.practice.rs/why-exercise.html)
+- [Introduction - Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)

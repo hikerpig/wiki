@@ -14,3 +14,13 @@ MacOS
 
 - [serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [mangerlahn/Latest: A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.](https://github.com/mangerlahn/latest)
+
+## 教学文章
+
+- [Top 8 Ways to Fix Mac Spotlight Not Working](https://www.anyrecover.com/mac-tips/mac-spotlight-not-working/)
+- [macOS 长按连续输入的简单设置方法 - zihengCat](https://zihengcat.github.io/2018/08/02/simple-ways-to-set-macos-consecutive-input/)
+
+
+## Mac 上的开发
+
+- [mac - Import certificates into the System Keychain via the command line - Ask Different](https://apple.stackexchange.com/questions/80623/import-certificates-into-the-system-keychain-via-the-command-line)

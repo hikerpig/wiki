@@ -103,3 +103,21 @@ docker run --name=calibre \
 ```
 
 [QLOCKER - FULL GUIDE how to get your Data back, QNAP NAS Hack - Ransomware Help & Tech Support](https://www.bleepingcomputer.com/forums/t/749751/qlocker-full-guide-how-to-get-your-data-back-qnap-nas-hack/)
+
+## tmm
+
+```
+docker run -d --name=tinymediamanager \
+-v /share/Container/tinymediamanager/config:/config \
+-v /share/Container/tinymediamanager/media:/media \
+-v /share/tvshows:/tvshows \
+-v /share/movies:/movies \
+--add-host=api.themoviedb.org:13.224.161.90  \
+--add-host=image.tmdb.org:104.16.61.155 \
+--add-host=api.themoviedb.org:13.35.67.86  \
+--add-host=www.themoviedb.org:54.192.151.79  \
+-e GROUP_ID=0 -e USER_ID=0 \
+-e ENABLE_CJK_FONT=1 \
+-p 5800:5800 \
+dzhuang/tinymediamanager:latest
+```

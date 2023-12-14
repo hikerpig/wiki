@@ -14,3 +14,17 @@ Related:
 ## 小 tip
 
 - 使用 cherrypick 时带上 `-x` 参数，可以在 commit message 最后生成一行 (cherry picked from sha) 这样的信息 
+- `git -c core.editor=true rebase --continue` rebase continue 的时候去掉编辑器确认步骤 [How to suppress the editor for `git rebase --continue`](https://stackoverflow.com/questions/43489971/how-to-suppress-the-editor-for-git-rebase-continue)
+
+## 排查问题
+
+### git connection slow
+
+[really-verbose-way-to-test-git-connection-over-ssh](https://askubuntu.com/questions/336907/really-verbose-way-to-test-git-connection-over-ssh)
+
+```
+GIT_SSH_COMMAND="ssh -v" git clone example
+
+# or extra verbose
+GIT_SSH_COMMAND="ssh -vvv" git clone example
+```

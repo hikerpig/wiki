@@ -16,3 +16,6 @@ Frontend Performance
 - [Optimizing CSS: ID Selectors and Other Myths - SitePoint](https://www.sitepoint.com/optimizing-css-id-selectors-and-other-myths/)
 - [Inside look at modern web browser (part 1)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1) 系列文章
 - [Does shadow DOM improve style performance? | Read the Tea Leaves](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
+
+
+- [speedscope](https://www.speedscope.app/) 看 cpuprofile 的工具

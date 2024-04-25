@@ -9,3 +9,5 @@ _algolia_api_key
 node_modules/
 _generator/public/
 .cache
+
+_templates

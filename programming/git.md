@@ -15,6 +15,13 @@ Related:
 
 - 使用 cherrypick 时带上 `-x` 参数，可以在 commit message 最后生成一行 (cherry picked from sha) 这样的信息 
 - `git -c core.editor=true rebase --continue` rebase continue 的时候去掉编辑器确认步骤 [How to suppress the editor for `git rebase --continue`](https://stackoverflow.com/questions/43489971/how-to-suppress-the-editor-for-git-rebase-continue)
+- 或者 `GIT_EDITOR=true git rebase --continue`
+
+- [Git Tips 3: Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
+```
+git config core.untrackedCache true
+git config core.fsmonitor true # 这个在 windows 上的 2.33.0 git 似乎不支持？
+```
 
 ## 排查问题
 

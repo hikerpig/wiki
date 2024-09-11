@@ -15,6 +15,7 @@ rust
 
 - https://course.rs/
 - https://rusty.rs/   常用三方工具库和代码片段
+- [Rusty Book - Rusty Book(锈书)](https://rusty.course.rs/)
 - https://github.com/rust-unofficial/patterns
 - [介绍 - Rust 秘典（死灵书）](https://nomicon.purewhite.io/)
 - [关于 pracitce.rs - Rust By Practice( Rust 练习实践 )](https://zh.practice.rs/why-exercise.html)

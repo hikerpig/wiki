@@ -23,7 +23,7 @@
 
 # 能力描述维度
 
-![[build-system-differences.png]]
+![[images/build-system-differences.png]]
 
 1. **持久化储存信息**。在构建直接持久化保存的信息，相当于构建系统的“记忆”。
     
@@ -40,7 +40,7 @@
 
 文中将构建系统核心设计抉择拆成 2个正交的关键模块，各自都有不同的实现策略，使用不同的策略可以组合出不同构建系统。
 
-![[scheduler-and-rebuilder.png]]
+![[images/scheduler-and-rebuilder.png]]
 
 ## Scheduler 决定任务执行顺序
 

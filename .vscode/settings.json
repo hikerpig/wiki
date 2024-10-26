@@ -4,7 +4,11 @@
   "editor.overviewRulerBorder": false,
   "workbench.colorTheme": "One Dark Pro",
   "[markdown]": {
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
